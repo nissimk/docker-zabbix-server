@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM i386/alpine:3.2
 MAINTAINER Maksim Chizhov <maksim.chizhov@gmail.com>
 LABEL version="1.0"
 LABEL description="Zabbix server based on alpine linux with external mysql database."
